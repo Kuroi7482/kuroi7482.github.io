@@ -1,6 +1,6 @@
 console.log('Hola mundo!');
-const myName = 'Pablo';
-let myAge = 22;
+const myName = 'Kylie';
+let myAge = 15;
 let x = 3;
 let y = 4;
 const likesMusic = true;
